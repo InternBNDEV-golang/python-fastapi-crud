@@ -1,5 +1,13 @@
 # python-fastapi-crud
 
+# Start
+
+```
+git clone https://github.com/InternBNDEV-golang/python-fastapi-crud
+cd python-fastapi-crud
+code .
+```
+
 # Create Conda Environment
 
 ```
